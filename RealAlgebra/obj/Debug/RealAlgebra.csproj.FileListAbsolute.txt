@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\bin\Debug\ShaoeAreaLib.dll
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\bin\Debug\ShaoeAreaLib.pdb
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\Users\user\source\repos\console app\Day 7\RealAlgebra\obj\Debug\RealAlgebra.pdb

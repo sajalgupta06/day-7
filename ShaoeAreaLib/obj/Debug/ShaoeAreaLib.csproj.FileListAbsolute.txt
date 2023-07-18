@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\bin\Debug\ShaoeAreaLib.dll
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\bin\Debug\ShaoeAreaLib.pdb
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\obj\Debug\ShaoeAreaLib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\obj\Debug\ShaoeAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\obj\Debug\ShaoeAreaLib.dll
+C:\Users\user\source\repos\console app\Day 7\ShaoeAreaLib\obj\Debug\ShaoeAreaLib.pdb
